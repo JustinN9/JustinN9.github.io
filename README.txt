@@ -45,5 +45,5 @@ Images in the live version are from [Unsplash](https://unsplash.com), but are no
 
 Want to connect or collaborate?  
 
-📬 [LinkedIn](www.linkedin.com/in/justin-norton23)  
+📬 **[LinkedIn](www.linkedin.com/in/justin-norton23)**  
 🌐 [Portfolio](https://justinn9.github.io)
