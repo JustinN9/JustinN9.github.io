@@ -5,10 +5,10 @@ Welcome to the source code for my personal portfolio website, built to showcase 
 🧠 This site was created to expand my web development skill set and serve as a central place to feature:
 - 🚀 My software development projects
 - 🎓 A detailed capstone write-up
-- 👨‍💻 About Me section
-- 📄 My resume (PDF)
+- 👨‍💻 About me section
+- 📄 My resume
 
-Check it out live at: [justin-norton23.github.io/portfolio-website](https://justin-norton23.github.io/portfolio-website/)
+Check it out live at: https://justinn9.github.io
 
 ---
 
@@ -47,3 +47,8 @@ Want to connect or collaborate?
 
 📬 **[LinkedIn](www.linkedin.com/in/justin-norton23)**  
 🌐 [Portfolio](https://justinn9.github.io)
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/justin-norton23)
+- [Portfolio Website](https://justin-norton23.github.io/portfolio-website/)
