@@ -3,9 +3,10 @@
 Welcome to the source code for my personal portfolio website, built to showcase my projects, skills, and resume as a junior software developer.
 
 🧠 This site was created to expand my web development skill set and serve as a central place to feature:
-- 🚀 My software development projects
+- 👨‍💻 An about me section
+- 🚀 My software development projects (Personal)
+- 🚀 My software development projects (Academic)
 - 🎓 A detailed capstone write-up
-- 👨‍💻 About me section
 - 📄 My resume
 
 Check it out live at: [Portfolio Website](https://justinn9.github.io)
