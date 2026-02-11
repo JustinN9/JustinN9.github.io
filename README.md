@@ -1,19 +1,19 @@
-# 🌐 Justin Norton's Portfolio Website
+# Justin Norton's Portfolio Website
 
 Welcome to the source code for my personal portfolio website, built to showcase my projects, skills, and resume as a junior software developer.
 
-🧠 This site was created to expand my web development skill set and serve as a central place to feature:
-- 👨‍💻 An about me section
-- 🚀 My software development projects (Personal)
-- 🚀 My software development projects (Academic)
-- 🎓 A detailed capstone write-up
-- 📄 My resume
+This site was created to expand my web development skill set and serve as a central place to feature:
+- An about me section
+- My software development projects (Personal)
+- My software development projects (Academic)
+- A detailed capstone write-up
+- My resume
 
 Check it out live at: [Portfolio Website](https://justinn9.github.io)
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 - HTML5 & CSS3
 - GitHub Pages for hosting
@@ -46,7 +46,7 @@ Images in the live version are from [Unsplash](https://unsplash.com), but are no
 
 ---
 
-## 📫 Contact
+## Contact
 
 Want to connect or collaborate?  
 
